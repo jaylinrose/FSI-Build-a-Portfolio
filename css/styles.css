@@ -1,0 +1,14 @@
+img {
+    max-width: 75%;  
+    height: auto;  
+  }
+div {
+    text-align: center;
+ }
+ div {
+    margin-inline: 300px;
+  }
+
+  .experienceInfo {
+    font-family: Arial, Helvetica, sans-serif;
+}
